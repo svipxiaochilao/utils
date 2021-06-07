@@ -1,6 +1,6 @@
 {
   "name": "dejin-web-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "web utils",
   "main": "min/outils.min.js",
   "author": "dejin",
